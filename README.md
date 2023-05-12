@@ -1,5 +1,5 @@
 # ToDoApp
-This is my Swift TodoApp
-To run: upload to XCode
-Choose Mobile Phone: IPhone 14
-Then click the Play button
+This is my Swift TodoApp <br />
+To run: upload to XCode <br />
+Choose Mobile Phone: IPhone 14 <br />
+Then click the Play button <br />
